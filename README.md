@@ -1,8 +1,8 @@
 # Fullstack Test
 ## The Scenario
 We work with many clients which provide us, via API, the information of the e-vehicles we operate with. For this exercise, we are going to use only two clients with their corresponding APIs:
-- Lime: https://github.com/mgonzalezbaile/amperand-fullstack/blob/master/clients/lime-get-scooter.json
-- Bird: https://github.com/mgonzalezbaile/amperand-fullstack/blob/master/clients/bird-get-scooters.json
+- Lime: https://gist.githubusercontent.com/mgonzalezbaile/4aa96056838edaa26588008b714b2973/raw/c6ee57af1d6615b85b947c19f98f7d81a793675e/limes.json
+- Bird: https://gist.githubusercontent.com/mgonzalezbaile/babe1b43f0d70d9af43537fb6ce60ff0/raw/873352b026edef06d7dd92e295d64eaf52cb476b/birds.json
 
 ## The Challenge (Back-End)
 We want you to build a small app that:
