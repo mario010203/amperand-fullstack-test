@@ -17,6 +17,7 @@ We want you to build a small app that:
 1. Shows in a map a marker for each e-vehicle based on its location.
 2. When we tap/click on a marker, the details of the e-vehicle are shown.
 3. Markers are clustered in groups of 50.
+4. We can filter the e-vehicles shown by `battery-level` range and `client`.
 
 ## NOTES
 - You can solve either one or both challenges as well as you can solve as many points as you want from each challenge.
