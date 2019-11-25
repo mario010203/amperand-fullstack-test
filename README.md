@@ -22,4 +22,5 @@ We want you to build a small app that:
 ## NOTES
 - You can solve either one or both challenges as well as you can solve as many points as you want from each challenge.
 - Don't include comments in your code, use the `README.md` to explain every decision and assumptions you have made.
+- Please, include in the `README.md` file the instructions to run the app/s.
 - You can send the solution as a .zip file to tech@microcharge.tech
