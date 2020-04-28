@@ -1,6 +1,7 @@
 # Dependency directory
 node_modules
 .cache
+dist
 
 # Debug log from npm
 npm-debug.log
@@ -8,4 +9,3 @@ npm-debug.log
 # Environment Variables should NEVER be published
 .env
 
-dist

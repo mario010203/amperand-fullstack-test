@@ -1,2 +1,11 @@
-.idea
+# Dependency directory
 node_modules
+.idea
+dist
+
+# Debug log from npm
+npm-debug.log
+
+# Environment Variables should NEVER be published
+.env
+
