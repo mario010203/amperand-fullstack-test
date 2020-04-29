@@ -7,6 +7,6 @@ const api = axios.create({
 
 export const limeAll = async () => {
   const res = await api.get("/lime");
-  console.log("Answer from Server to Lime", res.data);
-  return res.data;
+  console.log("Answer from Server to Lime", res.data.data.attributes.vehicles);
+  return res.data.data.attributes.vehicles;
 };
